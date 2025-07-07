@@ -2,7 +2,7 @@
 
 ---
 
-## 🔷 Tópico 1: Produtos e Estilo
+##  Tópico 1: Produtos e Estilo
 
 ### Perguntas Frequentes e Respostas:
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔷 Tópico 2: Pagamentos
+##  Tópico 2: Pagamentos
 
 ### Perguntas Frequentes e Respostas:
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🔷 Tópico 3: Envios e Entregas
+##  Tópico 3: Envios e Entregas
 
 ### Perguntas Frequentes e Respostas:
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 🔷 Tópico 4: Trocas e Devoluções
+##  Tópico 4: Trocas e Devoluções
 
 ### Perguntas Frequentes e Respostas:
 
@@ -86,7 +86,7 @@
 
 ---
 
-## 🔷 Tópico 5: Atendimento e Experiência da Cliente
+##  Tópico 5: Atendimento e Experiência da Cliente
 
 ### Perguntas Frequentes e Respostas:
 
